@@ -1,0 +1,18 @@
+{
+  "movies_parsed": 2000,
+  "m3u8_sources": 20,
+  "categories": {
+    "genre": 265,
+    "region": 32,
+    "type": 53,
+    "year": 73
+  },
+  "validation": {
+    "html_files": 2548,
+    "detail_files": 2000,
+    "baidu_checked": 2548,
+    "player_sample_checked": 10
+  },
+  "zip": "/mnt/data/movie_static_site.zip",
+  "zip_size": 14303806
+}
